@@ -219,7 +219,7 @@ body {
     margin: auto; }
   body #title_content {
     position: relative;
-    width: 100%;
+    width: 120%;
     height: 100%;
     background-color: rgba(0, 0, 0, 0.5); }
     body #title_content p {
